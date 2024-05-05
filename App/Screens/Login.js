@@ -32,7 +32,7 @@ export default function Login() {
 
 const styles = StyleSheet.create({
     appImage:{
-        width:400,
+        width:350,
         height:700,
         marginTop:50,
 
